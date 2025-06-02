@@ -1,2 +1,2 @@
 # netflix_SQL_Project
-[](netflix logo)
+[netflix_logo]()
