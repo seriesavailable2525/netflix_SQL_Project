@@ -1,4 +1,4 @@
-# netflix_SQL_Project
+# Netflix Movies and TV Shows Data Analysis using SQL
 ![netflix_logo](https://github.com/seriesavailable2525/netflix_SQL_Project/blob/main/logo%20(1).png)
 
 ## Objectives
